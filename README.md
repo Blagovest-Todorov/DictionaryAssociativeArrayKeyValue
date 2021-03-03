@@ -1,2 +1,2 @@
-# DictionaryAssocoativeArrayKeyValue
+# DictionaryAssociativeArrayKeyValue
 a Dictionary
